@@ -3,8 +3,8 @@
 **Student Name:** Arslan Tahir  
 **SAP ID:** 47120  
 **Subject:** Analysis of Algorithms  
-**Project:** Sorting_Algorithm_Analysis  
-**GitHub Repository:** [https://github.com/sapid47120/Fall26AoA2026](https://github.com/sapid47120/Fall26AoA2026) (under `Assignment-3/`)  
+**Project:** Sorting_Algorithm_Analysis (Assignment 2)  
+**GitHub Repository:** [https://github.com/sapid47120/Fall26AoA2026](https://github.com/sapid47120/Fall26AoA2026) (under `Assignment-2/`)  
 
 ---
 
